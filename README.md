@@ -1,5 +1,5 @@
 # **NewsDaily** #
- Hello! So, I made a news website where you can do many things that I added onto it. But, please, for signing-up, one account per person because that could cause file-handling troubles which will be saved as a `*.txt` file. Read that section for more.
+ Hey everyone! So, I made a news website where you can do many things that I added onto it. But, please, for signing-up, one account per person because that could cause file-handling troubles which will be saved as a `*.txt` file. Read that section for more.
  
  
 ## **1. Read Articles** ##
